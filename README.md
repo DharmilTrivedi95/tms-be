@@ -10,6 +10,9 @@
 * Mongo
   
 
+## Node version
+v16
+
 ## Project setup
 
 ```
@@ -33,5 +36,5 @@ OR
 ### Postman Collection
 
 ```
-https://www.getpostman.com/collections/d09615ca57527a9b4ddc
+https://elements.getpostman.com/redirect?entityId=29713623-31560ce2-7211-4aef-a6a2-199eb82b7817&entityType=collection
 ```
